@@ -1,3 +1,5 @@
+# Standard Calibration OpenCV
+
 The task is to register, i.e., make the objects captured by different sensors be in close proximity in a reference frame.
 This is particularly useful if you want to segment objects based of multiple caracteristics. For instance, shape given by 
 a depth camera, color given by an RGB camera, and hyperspectral data given by IR cameras. 
