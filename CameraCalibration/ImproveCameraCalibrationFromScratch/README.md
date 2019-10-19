@@ -5,6 +5,8 @@ Given that the standard OpenCV algorithm did not work for my application, I deci
 This code does not use coplanar points, i.e., checkerboard, but can be used for any configuration of points as long as you can easily 
 detect them. 
 
+I first created a fake 3D scence and coded the whole routine. Then I tested it on real data. 
+
 Algorithm: 
 
 1. Feature matching from Master and Slave cameras using Sift features and Flann matcher with OpenCv. 
