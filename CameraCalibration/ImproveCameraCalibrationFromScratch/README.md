@@ -1,5 +1,7 @@
 # Improved Camera Calibration
 
+Please open file: Calibration2.gif
+
 Given that the standard OpenCV algorithm did not work for my application, I decided to write my own code. 
 
 This code does not use coplanar points, i.e., checkerboard, but can be used for any configuration of points as long as you can easily 
