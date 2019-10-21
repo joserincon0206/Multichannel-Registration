@@ -1,6 +1,7 @@
 # Improved Camera Calibration
 
-Please open file: # Calibration2.gif
+Please open file: Calibration2.gif. This shows the reprojected points from a 3D point cloud to an image from a ThorLabs monochrome
+camera. As you can see, my method effectively reduces the reprojection error. It also effectively calibrates the camera extrinsic parameters. 
 
 Given that the standard OpenCV algorithm did not work for my application, I decided to write my own code. 
 
