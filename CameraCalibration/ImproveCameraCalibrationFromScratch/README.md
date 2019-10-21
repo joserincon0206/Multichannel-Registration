@@ -1,6 +1,6 @@
 # Improved Camera Calibration
 
-Please open file: Calibration2.gif
+Please open file: # Calibration2.gif
 
 Given that the standard OpenCV algorithm did not work for my application, I decided to write my own code. 
 
